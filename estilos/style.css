@@ -5,10 +5,15 @@
 body {
     background-color: blueviolet;
 }
+img.lado{
+    float: right;
+}
 main {
     background-color: blanchedalmond;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}article{
+    padding: 10px;
 }
